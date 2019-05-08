@@ -309,7 +309,7 @@ a,
   background-size: cover;
 }
 
-/* Vertical margin, padding */
+/* Vertical margin, padding 
 .p-0 {
   padding: 0 !important;
 }
@@ -559,7 +559,7 @@ a,
     margin-bottom: 80px !important;
   }
 }
-
+*/
 /* Scroll to top */
 .scroll-up {
   position: fixed;
